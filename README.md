@@ -7,6 +7,9 @@
      <li>Aprende desarollar web</li>
      <</ui>
      hola hola hola 
-     git add README.md
-     git add
+     1 guardar edicion
+     2 git...status
+     3 git...add . (significa cualquier archibo ".")
+     3 git...commit -m "texto"
+     4 git push
      
