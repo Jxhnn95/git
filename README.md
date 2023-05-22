@@ -20,9 +20,10 @@ Estilos inline. --/
      hola hola hola 
      1 guardar edicion
      2 git...status
-     3 git...add . (significa cualquier archibo ".")
+     3 git...add . (significa cualquier archivo ".")
      3 git...commit -m "texto"
      4 git push
+<<<<<<< HEAD
      5 aveces se añaden:
       Espacio en blanco: &nbsp;
 Menor que: &lt;
@@ -1646,3 +1647,6 @@ La opacidad es un número: 0.0 (totalmente transparente) y 1.0 (totalmente opaco
 
 
 pagina para animaciones https://github.com/FaztWeb/html_login01
+=======
+     
+>>>>>>> da18de522751d33341f3104b7084b87ca83a429d
